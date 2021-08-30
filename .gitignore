@@ -1,0 +1,34 @@
+# Compiled Python
+*.pyc
+
+.idea
+.vscode
+
+.coverage
+*__pycache__/*
+.pytest_cache
+
+# data
+#data/*
+
+.DS_Store
+
+# Scratch code
+dfstest.py
+
+*.egg-info
+/build/
+/dist/
+
+# Virtual Environment
+venv/
+
+# Jupyter
+ipynb_checkpoints/
+
+# Project-specific
+thoughts.md
+data/
+
+# for now
+notebooks/ 
